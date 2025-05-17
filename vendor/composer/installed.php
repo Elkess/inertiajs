@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'elkess/crud',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '4791485ff15873895b281bea0decc8a59ab8e269',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'elkess/crud' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '4791485ff15873895b281bea0decc8a59ab8e269',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
