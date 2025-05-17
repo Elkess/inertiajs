@@ -1,0 +1,20 @@
+{
+    "name": "elkess/crud",
+    "description": "small project of crud with react and laravel",
+    "require-dev": {
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elkess\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "melkess"
+        }
+    ],
+    "require": {
+        "laravel/installer": "^4.5"
+    }
+}
