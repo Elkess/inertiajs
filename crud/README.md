@@ -7,3 +7,6 @@ php artisan inertia:middleware
 /bootstrapp/app.php
 npm i @inertiajs/react
 npm install tailwindcss @tailwindcss/vite
+
+
+php artisan make:model Post -a
